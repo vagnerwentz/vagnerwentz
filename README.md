@@ -21,3 +21,11 @@ Front-end under construction </br>
 
 Mobile under construction </br>
 💈[Mobile Barber](https://github.com/vagnerwentz/gobarber-mobile-ts)
+
+<h1>Jobs</h1>
+
+<h3>Autoparanaiba</h3>
+
+🎯 Objective: Build CRUD where would need to implement announcement the agricultural machine and agricultural implements </br>
+⚙️ Technologies: Node.JS, Sequelize, MariaDB, Javascript </br>
+✔️ Done
