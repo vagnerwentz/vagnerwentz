@@ -17,13 +17,13 @@ Below down my profiles and the principal repositories.
 📦 [Fastfeet](https://github.com/vagnerwentz/fastfeet) </br>
 👟 [Rocketshoes](https://github.com/vagnerwentz/rocketshoes)</br>
 
-Back-end under construction </br>
+Back-end GoBarber </br>
 💈[Back-end Barber](https://github.com/vagnerwentz/gobarber-backend-ts)
 
-Front-end under construction </br>
+Front-end GoBarber </br>
 💈[Front-end Barber](https://github.com/vagnerwentz/gobarber-frontend-ts)
 
-Mobile under construction </br>
+Mobile GoBarber </br>
 💈[Mobile Barber](https://github.com/vagnerwentz/gobarber-mobile-ts)
 
 <h1>Jobs</h1>
