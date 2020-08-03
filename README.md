@@ -11,11 +11,12 @@ currently, I am working as a Mobile Developer in a project at my University.
 I am trying to be a good Software Engineer, I like to hand with Front-end and Back-end.
 Below down my profiles and the principal repositories.
 
-[LinkedIn](https://www.linkedin.com/in/vagner-wentz-10b98718a/)
-
 ♻️ [Ecoleta](https://github.com/vagnerwentz/ecoleta-nlw)</br>
+⚠️
+👩‍🏫[Proffy](https://github.com/vagnerwentz/proffy-nlw-2) Under construction⚠️</br>
 📦 [Fastfeet](https://github.com/vagnerwentz/fastfeet) </br>
 👟 [Rocketshoes](https://github.com/vagnerwentz/rocketshoes)</br>
+
 
 Back-end GoBarber </br>
 💈[Back-end Barber](https://github.com/vagnerwentz/gobarber-backend-ts)
