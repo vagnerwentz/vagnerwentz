@@ -4,7 +4,7 @@ Vagner Humberto Wentz 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-vagnerwentz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagner-wentz-10b98718a/)](https://www.linkedin.com/in/vagner-wentz-10b98718a/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/112772/vagner-wentz?tab=profile)](https://pt.stackoverflow.com/users/112772/vagner-wentz?tab=profile)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-000?style=flat-square&logo=Stackoverflow&logoColor=red&link=https://stackoverflow.com/users/11252703/vagner-wentz)](https://stackoverflow.com/users/11252703/vagner-wentz)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-000?style=flat-square&logo=Stackoverflow&logoColor=red&link=https://stackoverflow.com/users/11252703/vagner-wentz?tab=profile)](https://stackoverflow.com/users/11252703/vagner-wentz?tab=profile)
 
 
 Hello! How you see above my name, I am a Computer Science student at UTFPR - Medianeira,
