@@ -13,8 +13,7 @@ I am trying to be a good Software Engineer, I like to hand with Front-end and Ba
 Below down my profiles and the principal repositories.
 
 ♻️ [Ecoleta](https://github.com/vagnerwentz/ecoleta-nlw)</br>
-⚠️
-👩‍🏫[Proffy](https://github.com/vagnerwentz/proffy-nlw-2) Under construction⚠️</br>
+👩‍🏫[Proffy](https://github.com/vagnerwentz/proffy-nlw-2) </br>
 📦 [Fastfeet](https://github.com/vagnerwentz/fastfeet) </br>
 👟 [Rocketshoes](https://github.com/vagnerwentz/rocketshoes)</br>
 
