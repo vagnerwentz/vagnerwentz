@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **how to be a better developer.**
 
-- 📝 I regulary write articles on [tecnhology.](tecnhology.)
-
 - 💬 Ask me about **React, Next.JS and TypeScript.**
 
 - 📫 How to reach me **wentz.vagner@gmail.com**
