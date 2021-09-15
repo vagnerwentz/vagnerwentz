@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vagnerwentz" alt="vagnerwentz" /></a> </p>
 
-- 🌱 I’m currently learning **Next.JS, Node.JS and TypeScript**
+- 🌱 I’m currently learning **Go, Node.JS and TypeScript**
 
 - 🤝 I’m looking for help with **how to be a better developer.**
 
-- 💬 Ask me about **React, Next.JS and TypeScript.**
+- 💬 Ask me about **React Native, Go and TypeScript.**
 
 - 📫 How to reach me **wentz.vagner@gmail.com**
 
-- ⚡ Fun fact **I am a boy scout for over 14 years.**
+- ⚡ Fun fact **I am a boy scout for over 16 years.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
