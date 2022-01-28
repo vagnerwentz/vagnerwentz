@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vagnerwentz" alt="vagnerwentz" /></a> </p>
 
-- 🌱 I’m currently learning **Go, Node.JS and TypeScript**
+- 🌱 I’m currently learning **Go, AWS, Microservices, Azure and Kuber**
 
 - 🤝 I’m looking for help with **how to be a better developer.**
 
